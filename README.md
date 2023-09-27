@@ -5,7 +5,7 @@ The primary objective of this project was to create a prototyped model to furthe
 
 Key features of the project include a live camera feed and overlays detected hand signs with bounding boxes and labels in real-time. The system is optimized for both accuracy and real-time performance, making it versatile and adaptable for various scenarios.
 
-Future enhancements may include continuous model improvement through ongoing training with diverse data and model using the detection model to build different use cases such a hand free presentation slide app.
+Future enhancements may include continuous model improvement through ongoing training with diverse data and model using the detection model to build different use cases such as a hand free presentation slide app.
 
 https://github.com/gunitpabla/TFOD-Hand-Detection/assets/145258309/1569a4c1-270d-468e-87a2-3e888dc00816
 
